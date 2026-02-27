@@ -1,7 +1,6 @@
 # (replace-me: Exercise title)
 
-Line from MAIN branch
-
+Line from MY-RESUME branch
 ## Welcome
 
 - **Who is this for**: (replace-me: Target audience description)
@@ -47,3 +46,5 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 ---
 
 &copy; 2026 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+- Contributed to open source projects
