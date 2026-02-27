@@ -1,7 +1,6 @@
 # (replace-me: Exercise title)
 
-_(replace-me: One-line description of the exercise)_
-
+Line from MY-RESUME branch
 ## Welcome
 
 - **Who is this for**: (replace-me: Target audience description)
