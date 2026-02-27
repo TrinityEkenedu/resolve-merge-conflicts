@@ -1,6 +1,6 @@
 # (replace-me: Exercise title)
 
-_(replace-me: One-line description of the exercise)_
+Line from MAIN branch
 
 ## Welcome
 
